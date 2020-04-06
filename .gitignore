@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+mundo-01/.DS_Store
