@@ -1,3 +1,4 @@
 n ="danilo"
 i =34
-print(f"olá {n} você tem {i}anos")
+a =2023
+print(f"olá {n} você tem {i}anos e estamos no ano {a}")
